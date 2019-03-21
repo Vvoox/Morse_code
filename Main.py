@@ -1,3 +1,5 @@
+#NOT FINISH YET 1.0
+
 print("Welcome to Morse code app , this app build to encrypt and decrypt any morse code , and facilitate your task . Enjoy")
 biblo={ 'A':'.-', 'B':'-...',
                     'C':'-.-.', 'D':'-..', 'E':'.',
